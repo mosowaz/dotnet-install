@@ -1,4 +1,3 @@
-# Install .NET 10 SDK on WSL (Ubuntu)
 #!/bin/bash
 set -eo pipefail
 
